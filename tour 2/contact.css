@@ -1,0 +1,163 @@
+.form-all {
+    font-family: Inter, sans-serif;
+  }
+  body{
+    background-image: url(https://www.gettyimages.in/detail/photo/weve-made-it-all-this-way-i-am-proud-royalty-free-image/904172104);
+  }
+  
+  .form-label.form-label-auto {
+    
+  display: block;
+  float: none;
+  text-align: left;
+  width: 100%;
+  
+  }
+  .back video{
+    z-index: 000;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .form-line {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  
+  .form-all {
+    max-width: 752px;
+    width: 100%;
+  }
+  
+  .form-label.form-label-left,
+  .form-label.form-label-right,
+  .form-label.form-label-left.form-label-auto,
+  .form-label.form-label-right.form-label-auto {
+    width: 230px;
+  }
+  
+  .form-all {
+    font-size: 16px;
+  }
+  
+  .supernova .form-all, .form-all {
+    background-color: #fff;
+  }
+  
+  .form-all {
+    color: #2C3345;
+  }
+  .form-header-group .form-header {
+    color: #2C3345;
+  }
+  .form-header-group .form-subHeader {
+    color: #2C3345;
+  }
+  .form-label-top,
+  .form-label-left,
+  .form-label-right,
+  .form-html,
+  .form-checkbox-item label,
+  .form-radio-item label,
+  span.FITB .qb-checkbox-label,
+  span.FITB .qb-radiobox-label,
+  span.FITB .form-radio label,
+  span.FITB .form-checkbox label,
+  [data-blotid][data-type=checkbox] [data-labelid],
+  [data-blotid][data-type=radiobox] [data-labelid],
+  span.FITB-inptCont[data-type=checkbox] label,
+  span.FITB-inptCont[data-type=radiobox] label {
+    color: #2C3345;
+  }
+  .form-sub-label {
+    color: #464d5f;
+  }
+  
+  .supernova {
+  background-color: #ecedf3;
+  }
+  .supernova body {
+  background: transparent;
+  }
+  
+  .form-textbox,
+  .form-textarea,
+  .form-dropdown,
+  .form-radio-other-input,
+  .form-checkbox-other-input,
+  .form-captcha input,
+  .form-spinner input {
+    background-color: #fff;
+  } 
+  .supernova {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center top;
+  }
+  
+  .supernova, #stage {
+    background-image: url("//www.jotform.com/uploads/MJH050687/form_files/girl-622534_1920.jpg");
+  }
+    .form-all {
+      background-image: none;
+    }
+  .form-all:before { content: none; } .form-all { margin-top: 72px; }
+
+  header{
+    background-color: #2C3345;
+    z-index: 999;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 200px;
+    transition: 0.5s ease;
+  }
+  
+  header .brand{
+    color: #fff;
+    font-size: 1.5em;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  
+  header .navigation{
+    position: relative;
+  }
+  
+  header .navigation .navigation-items a{
+    position: relative;
+    color: #fff;
+    font-size: 1em;
+    font-weight: 500;
+    text-decoration: none;
+    margin-left: 30px;
+    transition: 0.3s ease;
+  }
+  
+  header .navigation .navigation-items a:before{
+    content: '';
+    position: absolute;
+    background: #fff;
+    width: 0;
+    height: 3px;
+    bottom: 0;
+    left: 0;
+    transition: 0.3s ease;
+  }
+  
+  header .navigation .navigation-items a:hover:before{
+    width: 100%;
+  }
+  
